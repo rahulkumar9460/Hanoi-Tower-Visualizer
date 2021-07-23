@@ -104,7 +104,7 @@ h2 {
 }
 
 #intro .heading-text {
-  color: gray;
+  color: rgb(168, 88, 156);
   font-size: 25px;
 }
 
@@ -159,7 +159,7 @@ lable {
   color: white;
 }
 
-#contect {
+#contact {
   background-color:black;
   padding: 20px;
   max-height:500px;
